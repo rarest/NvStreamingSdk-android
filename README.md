@@ -1,15 +1,6 @@
 # NvStreamingSdk-android
 Meishe SDK for android
 
-## Maven
-
-``` xml
-    <dependency>
-       <groupId>com.github.rarest</groupId>
-       <artifactId>NvStreamingSdk-android</artifactId>
-       <version>1.4.0</version>
-    </dependency>
-```
 
 ## Gradle
 
